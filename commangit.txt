@@ -10,8 +10,8 @@ git remote add origin https://github.com/FreseFeaa/gitpractic.git
 git branch -M main
 git push -u origin main
 
-
-
+Git log
+git reset --soft HEAD~1
 
 
 
