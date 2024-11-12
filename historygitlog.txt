@@ -1,0 +1,10 @@
+C:\Users\f.palekhov\Downloads\giiiit>Git log
+commit 4f449feb944e2d915f26cff06fa9796000ed5c57 (HEAD -> main)
+Author: FreseFea <fresefae@gmail.com>
+Date:   Fri Nov 8 17:47:39 2024 +0300
+
+    2 branch in 1 SHOK
+
+commit 322de604c855828d2ab698f7bd0ad102114e3f65 (origin/main, feature)
+Author: FreseFea <fresefae@gmail.com>
+Date:   Fri Nov 8 17:14:53 2024 +0300
